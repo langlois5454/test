@@ -3,4 +3,5 @@
 
 main(){
   printf("toto\n");
+  printf("coucou\n");
 }
